@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-main-proj/static/css/main.7edec5a8.css",
+    "main.js": "/react-main-proj/static/js/main.7270df7c.js",
+    "static/js/787.233ad420.chunk.js": "/react-main-proj/static/js/787.233ad420.chunk.js",
+    "static/media/header.png": "/react-main-proj/static/media/header.abdb657fa3b7221898a7.png",
+    "static/media/foto1.jpg": "/react-main-proj/static/media/foto1.995dac83524c81a5d2a2.jpg",
+    "static/media/clouds.png": "/react-main-proj/static/media/clouds.a589a082163e858365f5.png",
+    "static/media/rgo.svg": "/react-main-proj/static/media/rgo.9b3d6bb5c98c196d0d1f006c0f9fc5fc.svg",
+    "static/media/rostour.svg": "/react-main-proj/static/media/rostour.80567f6d9b5e596c8cbfadc086d57026.svg",
+    "static/media/logoFooter.svg": "/react-main-proj/static/media/logoFooter.9da93997ff1ab9224d3496170ad09962.svg",
+    "static/media/logo.svg": "/react-main-proj/static/media/logo.5926856fd95820d0f7a6c029649e089a.svg",
+    "static/media/mtkk.svg": "/react-main-proj/static/media/mtkk.e627658c37dea85bf206df94f6e65786.svg",
+    "index.html": "/react-main-proj/index.html",
+    "main.7edec5a8.css.map": "/react-main-proj/static/css/main.7edec5a8.css.map",
+    "main.7270df7c.js.map": "/react-main-proj/static/js/main.7270df7c.js.map",
+    "787.233ad420.chunk.js.map": "/react-main-proj/static/js/787.233ad420.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7edec5a8.css",
+    "static/js/main.7270df7c.js"
+  ]
+}
